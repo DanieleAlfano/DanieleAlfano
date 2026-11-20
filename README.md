@@ -1,8 +1,7 @@
 # Ciao, sono Daniele Alfano 👋
 
-Laureato in **Informatica** all’Università degli Studi di Salerno. Mi occupo di **sviluppo software** (web full-stack)
+Laureato in **Informatica** all’Università degli Studi di Salerno. Mi occupo di **sviluppo software** (full-stack)
 e mi interessano in particolare **Cybersecurity** e **Intelligenza Artificiale**.
-Cerco un’opportunità in cui mettere le mie competenze al servizio di un team.
 
 📫 [danielealfano444@gmail.com](mailto:danielealfano444@gmail.com) · 📍 Salerno
 
